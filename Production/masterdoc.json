@@ -1,0 +1,13 @@
+[
+    {
+      "Name": "Build and Deploy Containers Using Elastic Container Service",
+      "Language": "English",
+      "BaseURL": "https://github.com/CloudLabsAI-Azure/AustinCC/tree/main/ECS",
+      "Files": [
+          {
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/ECS/getting_started.md",
+          "Order": 1
+        }
+      ]
+    }
+  ]
