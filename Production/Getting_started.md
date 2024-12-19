@@ -10,7 +10,7 @@
 
    * **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-   * **Password: **<inject key="AzureAdUserPassword"></inject>
+   * **Password:** <inject key="AzureAdUserPassword"></inject>
 
    * **Cloud Account Name:**  <inject key="tenantdomainname"></inject>
    
