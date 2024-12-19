@@ -1,11 +1,11 @@
 [
     {
-      "Name": "Build and Deploy Containers Using Elastic Container Service",
+      "Name": "OCI",
       "Language": "English",
-      "BaseURL": "https://github.com/CloudLabsAI-Azure/AustinCC/tree/main/ECS",
+      "BaseURL": "https://github.com/dhananjaygr/OCI-sign-in-link/tree/main/Production",
       "Files": [
           {
-          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/AustinCC/main/ECS/getting_started.md",
+          "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/OCI-sign-in-link/refs/heads/main/Production/Getting_started.md",
           "Order": 1
         }
       ]
