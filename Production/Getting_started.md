@@ -1,22 +1,21 @@
-# Getting Started with Azure Virtual Machines Lab <br>
+# Getting Started with OCI <br>
 
 <br>
 
-Follow the steps below to get started with the lab. <br>
+## Login to OCI <br>
 
-## Login to Azure Portal <br>
-
-1. Sign in to the OCI Management Console by copying the **Sign-in link, Username, and Password** provided below.
+1. Sign in to the OCI Management Console by copying the **Sign-in link** provided below.
 
     * **Sign-in Link**: **<inject key="ocisigninurl" enableCopy="true" />**
 
-1. On **Sign into Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
-
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
-      
-1. Now enter the following password and click on **Sign in**.
 
    * Password: <inject key="AzureAdUserPassword"></inject>
+
+   * Cloud Account Name :  <inject key="tenantdomainname"></inject>
+   
+   * Domain : <inject key="aaddomain"></inject>
+   
 
 
    
