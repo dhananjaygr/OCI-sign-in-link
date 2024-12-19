@@ -1,7 +1,5 @@
 # Getting Started with OCI <br>
 
-## Login to OCI <br>
-
 1. Sign in to the OCI Management Console by copying the **Sign-in link** provided below.
 
     * **Sign-in Link**: **<inject key="ocisigninurl" enableCopy="true" />**
