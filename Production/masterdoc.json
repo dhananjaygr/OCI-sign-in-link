@@ -5,7 +5,7 @@
       "BaseURL": "https://github.com/dhananjaygr/OCI-sign-in-link/tree/main/Production",
       "Files": [
           {
-          "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/OCI-sign-in-link/refs/heads/main/Production/Getting_started.md",
+          "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/dhananjaygr/OCI-sign-in-link/refs/heads/main/Production/Getting_started.md",
           "Order": 1
         }
       ]
