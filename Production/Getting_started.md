@@ -8,13 +8,13 @@
 
     * **Sign-in Link**: **<inject key="ocisigninurl" enableCopy="true" />**
 
-   * Email/Username: <inject key="AzureAdUserEmail"></inject>
+   * **Email/Username:** <inject key="AzureAdUserEmail"></inject>
 
-   * Password: <inject key="AzureAdUserPassword"></inject>
+   * **Password: **<inject key="AzureAdUserPassword"></inject>
 
-   * Cloud Account Name :  <inject key="tenantdomainname"></inject>
+   * **Cloud Account Name:**  <inject key="tenantdomainname"></inject>
    
-   * Domain : <inject key="aaddomain"></inject>
+   * **Domain:** <inject key="aaddomain"></inject>
    
 
 
